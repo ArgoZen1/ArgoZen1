@@ -11,7 +11,7 @@
 
 - 👨‍💻 Tous mes projets sont disponibles sur https://ares-romain.com/
 
-- 💬 Competences **HTML, CSS, SASS, JS, Node.js, Express, React, accessibilité, SEO**
+- 💬 Competences **HTML, CSS, SASS, JS, Node.js, Express, MySQL, MongoDB, React, accessibilité, SEO**
 
 - 📫 Comment me joindre **argolys@outlook.com**
 
