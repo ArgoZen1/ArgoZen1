@@ -7,11 +7,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=argozen1&label=Profile%20views&color=0e75b6&style=flat" alt="argozen1" /> </p>
 
 
-- 🌱 j'apprends actuellement **JEST, Design Pattern, algorithmes et React / Redux**
+- 🌱 j'apprends actuellement **JEST, Design Pattern, algorithmes, Figma et React / Redux**
 
 - 👨‍💻 Tous mes projets sont disponibles sur https://ares-romain.com/
 
-- 💬 Competences **HTML, CSS, JS, React, accessibilité, SEO**
+- 💬 Competences **HTML, CSS, SASS, JS, Node.js, Express, React, accessibilité, SEO**
 
 - 📫 Comment me joindre **argolys@outlook.com**
 
