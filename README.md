@@ -9,7 +9,7 @@
 
 - 🌱 j'apprends actuellement **JEST, Design Pattern, algorithmes, Figma et React / Redux**
 
-- 👨‍💻 Tous mes projets sont disponibles sur https://ares-romain.com/
+- 👨‍💻 Tous mes projets sont disponibles sur https://ares-romain.com/ (à mettre à jour par la suite)
 
 - 💬 Competences **HTML, CSS, SASS, JS, Node.js, Express, MySQL, MongoDB, React, accessibilité, SEO**
 
