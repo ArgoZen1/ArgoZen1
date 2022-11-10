@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=argozen1&label=Profile%20views&color=0e75b6&style=flat" alt="argozen1" /> </p>
 
 
-- 🌱 j'apprends actuellement **JEST, Design Pattern, algorithmes, Figma et React / Redux**
+- 🌱 j'apprends actuellement **JEST, Design Pattern, algorithmes, Figma, JQuery et React / Redux**
 
 - 👨‍💻 Tous mes projets sont disponibles sur https://ares-romain.com/ (à mettre à jour par la suite)
 
