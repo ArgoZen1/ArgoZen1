@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋,Je suis Arès Romain</h1>
+<h1 align="center">Hi 👋,Je m'appelle Arès Romain</h1>
 <h3 align="center">Je suis passionné par le développement d'Application Front-End</h3>
 
 ![image](https://user-images.githubusercontent.com/95536872/201047900-9b9a7288-8de8-44d2-944e-5aadc7cb4b27.png)
