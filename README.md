@@ -18,7 +18,7 @@
 - 📄 Connaître mes expériences https://www.linkedin.com/in/romain-ares/
 
 - ⚡ Fait amusant **Je suis un bout en train**
-- ⚡ C'est promis, je ferais attention à bien commenter mon code, à apprendre TS, et me formais d'avantage sur les tests utinaires :)**
+- ⚡ C'est promis, je ferais attention à bien commenter mon code, à apprendre TS, et me formais d'avantage sur les tests utinaires :)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
