@@ -9,9 +9,9 @@
 
 - 🌱 j'apprends actuellement **JEST, Design Pattern, algorithmes, Figma, JQuery et React / Redux**
 
-- 👨‍💻 Tous mes projets sont disponibles sur https://ares-romain.com/ (à mettre à jour par la suite)
+- 👨‍💻 Tous mes projets sont disponibles sur https://github.com/ArgoZen1?tab=repositories 
 
-- 💬 Competences **HTML, CSS, SASS, JS, Node.js, Express, MySQL, MongoDB, React, accessibilité, SEO**
+- 💬 Competences **HTML, CSS, SASS, JS, Node.js, Express, MySQL, MongoDB, React, JEST, Accessibilité, SEO, Méthodologies agiles, Figma, **
 
 - 📫 Comment me joindre **argolys@outlook.com**
 
