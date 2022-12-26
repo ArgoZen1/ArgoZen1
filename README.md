@@ -11,7 +11,7 @@
 
 - 👨‍💻 Tous mes projets sont disponibles sur https://github.com/ArgoZen1?tab=repositories 
 
-- 💬 Competences **HTML, CSS, SASS, JS, Node.js, Express, MySQL, MongoDB, React, JEST, Accessibilité, SEO, Méthodologies agiles, Figma, **
+- 💬 Competences **HTML, CSS, SASS, JS, Node.js, Express, MySQL, MongoDB, React, JEST, Accessibilité, SEO, Méthodologies agiles, Figma**
 
 - 📫 Comment me joindre **argolys@outlook.com**
 
