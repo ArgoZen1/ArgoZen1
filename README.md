@@ -64,3 +64,6 @@
 <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=argozen1" alt="GitHub Streak" />
 </p>
+<p align="center">
+![certifcodingame](https://github.com/ArgoZen1/ArgoZen1/assets/95536872/d0fdd67d-0a0e-45cf-a33a-2db382281da0)
+</p>
